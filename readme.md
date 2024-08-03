@@ -30,13 +30,13 @@ Command-line Arguments
 Generate Dummy Data and Write to a File
 
 ```sh
-python dummy_data_generator.py -f data.json -n 10
+python main.py -f data.json -n 10
 ```
 This command will generate 10 dummy data entries and write them to data.json.
 
 ## Read Data from a File
 ```sh
-python dummy_data_generator.py -f data.json -r
+python main.py -f data.json -r
 ```
 This command will read the data from data.json and display it along with the size of the data and the file.
 
