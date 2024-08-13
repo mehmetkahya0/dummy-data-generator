@@ -2,6 +2,7 @@
 
 This Python script generates dummy data and writes it to a file. It can also read the data back from the file and display information about the size of the data and the file. It includes functionality to generate random strings, numbers, dates, and boolean values.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmehmetkahya0%2Fdummy-data-generator&label=VISITORS&labelColor=%23d9e3f0&countColor=%23263759)
 ## Features
 
 - Generate random strings, numbers, dates, and boolean values
